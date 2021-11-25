@@ -100,5 +100,3 @@ namespace Psim.IOManagers
         }
     }
 }
-}
-}
